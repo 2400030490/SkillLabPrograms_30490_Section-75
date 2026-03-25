@@ -1,1 +1,1 @@
-EXP-02- Hibernate CRUD Operations
+EXP-03- Working with HQL - Sorting, Pagination & Aggregates
