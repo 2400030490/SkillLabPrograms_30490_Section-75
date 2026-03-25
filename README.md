@@ -1,1 +1,1 @@
-EXP-04-Spring Dependency Injection – Constructor & Setter Injection
+EXP-05-Spring Autowiring Demo using @Autowired
