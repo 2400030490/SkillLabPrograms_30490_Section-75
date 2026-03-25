@@ -1,1 +1,1 @@
-EXP-08-Spring Boot – JPQL & Query Methods Module
+EXP-09-Global Exception Handling using @ControllerAdviceTasks:
