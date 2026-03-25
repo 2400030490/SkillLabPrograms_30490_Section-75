@@ -1,1 +1,1 @@
-EXP-05-Spring Autowiring Demo using @Autowired
+EXP-08-Spring Boot – JPQL & Query Methods Module
